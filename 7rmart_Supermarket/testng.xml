@@ -14,7 +14,7 @@
 				</methods>
 			</class>
 
-			<class name="testscipt.AdminUsersSearchTest">
+			<class name="testscript.AdminUsersSearchTest">
 				<methods>
 					<include
 						name="verifyWhetherUsercanSearchAdminUsersandGetMatchingResults"></include>
@@ -28,7 +28,7 @@
 				</methods>
 			</class>
 
-			<class name="testscipt.CategoryTest">
+			<class name="testscript.CategoryTest">
 				<methods>
 					<include
 						name="veryfyUsercanViewStatusandAddnNewCategorytoListCategoryPage"></include>
